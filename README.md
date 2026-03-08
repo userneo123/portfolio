@@ -7,6 +7,7 @@ This website showcases my projects, skills, and contact information.
 <p align="center">
   <img src="screenshot.png" width="800">
 </p>
+
 ## Live Website
 
 View the live portfolio here:
