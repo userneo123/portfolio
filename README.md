@@ -12,7 +12,7 @@ This website showcases my projects, skills, and contact information.
 
 View the live portfolio here:
 
-https://yourusername.github.io/portfolio
+https://userneo123.github.io/portfolio/
 
 ## Features
 
